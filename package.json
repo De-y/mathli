@@ -1,0 +1,25 @@
+{
+  "name": "mathli",
+  "version": "1.0.2",
+  "description": "Math but more for NodeJS. My first NPM package.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "de-y",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "node-fetch": "^3.2.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/de-y/mathli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/de-y/mathli/issues"
+  },
+  "homepage": "https://github.com/de-y/mathli#readme"
+}
